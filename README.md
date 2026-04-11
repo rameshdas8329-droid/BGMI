@@ -1,6 +1,4 @@
-# BGMI ERP System
-
-This is a web-based ERP system for BGMI players.
+BGMI_ MY TEAM'S 
 
 ## Features
 - Login using BGMI UID
